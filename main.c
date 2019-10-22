@@ -1,3 +1,11 @@
+/*
+*
+*Author: Rakesh Malepu
+*       Embedded Software Developer
+*
+*Date   : 22/10/2019
+*
+*/
 #include <stdlib.h>
 #include <windows.h>
 #include <string.h>

@@ -1,3 +1,11 @@
+/*
+*
+*Author: Rakesh Malepu
+*       Embedded Software Developer
+*
+*Date   : 22/10/2019
+*
+*/
 #include "common.h"
 extern int employee_login_and_check(int task, int desig);
 char * exchange(char * buf, char *name, char * replace);
