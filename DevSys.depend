@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1571226787 source:e:\c projects\devsys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1571220835 source:e:\c projects\devsys\devsys.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1571227729 source:e:\c projects\devsys\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571229605 source:e:\c projects\devsys\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571220825 source:e:\c projects\devsys\common.c
+	<stdio.h>
+
