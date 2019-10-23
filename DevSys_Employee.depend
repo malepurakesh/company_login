@@ -1,30 +1,32 @@
 # depslib dependency file v1.0
-1571748429 source:e:\c projects\devsys\admin.c
+1571750390 source:e:\c projects\devsys\admin.c
 	<stdlib.h>
 	<string.h>
 	"common.h"
 
-1571748982 source:e:\c projects\devsys\common.c
+1571750390 source:e:\c projects\devsys\common.c
 	"common.h"
 
-1571747405 source:e:\c projects\devsys\devsys.c
+1571750323 source:e:\c projects\devsys\devsys.c
 	<stdio.h>
 	<stdlib.h>
 	<windows.h>
 
-1571748429 source:e:\c projects\devsys\employee.c
+1571750390 source:e:\c projects\devsys\employee.c
 	<stdlib.h>
 	<string.h>
 	"common.h"
 
-1571748429 source:e:\c projects\devsys\main.c
+1571807392 source:e:\c projects\devsys\main.c
 	<stdlib.h>
 	<windows.h>
 	<string.h>
 	"common.h"
 
-1571748429 e:\c projects\devsys\common.h
+1571750387 e:\c projects\devsys\common.h
 	<windows.h>
 	<stdio.h>
 	<conio.h>
+
+1571806965 source:e:\c projects\devsys\icon.rc
 

@@ -82,7 +82,7 @@ up:
         case 'd':
                 system("cls");
                 printf("\n\n\n\n\n\t\t\tAbout the application\n\n");
-                printf("\n\t This application is of DevSys Embedded Technologies.\n\t Here the options about admin and employee login and \n\t home.In admin can insert the employee details and \n\t give the authentication access and employee list and\n\t employee check are present. In employee details login \n\t and diary with employee name. And some features have\n\t to implement, those are in admin removing of employee \n\t details and password change option. In employee have to\n\t implement change password option.\n\t\n\n\n\t\t*** Thank you ***");
+                printf("\n\t This application is of DevSys Embedded Technologies.\n\t Here the options about admin and employee login and \n\t home.In admin can insert the employee details and \n\t give the authentication access and employee list and\n\t employee check are present. In employee details login \n\t and diary with employee name.\n\t\n\n\n\t\t\t   *** Thank you ***\n\n\n\n\n\t\t\t\t\tDeveloper: Rakesh Malepu\n");
                        printf("\n\n\n\t\t\t\t\t\t\tb.Back\n");
                    wait();
                    goto up;
